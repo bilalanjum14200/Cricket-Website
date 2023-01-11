@@ -1,0 +1,178 @@
+body{
+    background: #005C97;
+background: -webkit-linear-gradient(to right, #363795, #005C97); 
+background: linear-gradient(to right, #363795, #005C97); 
+}
+.pak-btn {
+    background-color: #186214;
+    border-color: #186214;
+    transition: 0.3s;
+}
+
+.pak-btn:hover {
+    transform: scale(0.95);
+    background-color: #186214;
+    border-color: #186214;
+}
+
+.ind-btn {
+    background-color: #5093f6;
+    border-color: #5093f6;
+    transition: 0.3s;
+}
+
+.ind-btn:hover {
+    transform: scale(0.95);
+    background-color: #5093f6;
+}
+
+.eng-btn {
+    background-color: #2a4281;
+    border-color: #2a4281;
+    transition: 0.3s;
+}
+
+.eng-btn:hover {
+    background-color: #2a4281;
+    border-color: #2a4281;
+    transform: scale(0.95);
+}
+
+.aus-btn {
+    background-color: #cba435;
+    border-color: #cba435;
+    transition: 0.3s;
+}
+
+.aus-btn:hover {
+    transform: scale(0.95);
+    background-color: #cba435;
+    border-color: #cba435;
+}
+
+.wi-btn {
+    background-color: #4f0627;
+    border-color: #4f0627;
+    transition: 0.3s;
+}
+
+.wi-btn:hover {
+    background-color: #4f0627;
+    border-color: #4f0627;
+    transform: scale(0.95);
+}
+
+.nz-btn {
+    background-color: #515151;
+    border-color: #515151;
+    transition: 0.3s;
+}
+
+.nz-btn:hover {
+    background-color: #515151;
+    border-color: #515151;
+    transform: scale(0.95);
+}
+
+.sl-btn {
+    background-color: #31c9fc;
+    border-color: #31c9fc;
+    transition: 0.3s;
+}
+
+.sl-btn:hover {
+    background-color: #31c9fc;
+    border-color: #31c9fc;
+    transform: scale(0.95);
+}
+
+.sa-btn {
+    background-color: #2f5b29;
+    border-color: #2f5b29;
+    transition: 0.3s;
+}
+
+.sa-btn:hover {
+    background-color: #2f5b29;
+    border-color: #2f5b29;
+    transform: scale(0.95);
+}
+
+.ban-btn {
+    background-color: #006a64;
+    border-color: #006a64;
+    transition: 0.3s;
+}
+
+.ban-btn:hover {
+    background-color: #006a64;
+    border-color: #006a64;
+    transform: scale(0.95);
+}
+
+.zim-btn {
+    background-color: #8c0e17;
+    border-color: #8c0e17;
+    transition: 0.3s;
+}
+
+.zim-btn:hover {
+    background-color: #8c0e17;
+    border-color: #8c0e17;
+    transform: scale(0.95);
+}
+
+.afg-btn {
+    background-color: #0072c4;
+    border-color: #0072c4;
+    transition: 0.3s;
+}
+
+.afg-btn:hover {
+    background-color: #0072c4;
+    border-color: #0072c4;
+    transform: scale(0.95);
+}
+
+.ire-btn {
+    background-color: #335717;
+    border-color: #335717;
+    transition: 0.3s;
+}
+
+.ire-btn:hover {
+    background-color: #335717;
+    border-color: #335717;
+    transform: scale(0.95);
+}
+
+.pak,
+.ind,
+.eng,
+.aus,
+.wi,
+.sl,
+.sa,
+.nz,
+.afg,
+.ban,
+.zim,
+.ire {
+    width: 500px;
+    transition: 0.3s;
+}
+
+.pak:hover,
+.ind:hover,
+.eng:hover,
+.aus:hover,
+.wi:hover,
+.sl:hover,
+.sa:hover,
+.nz:hover,
+.afg:hover,
+.ban:hover,
+.zim:hover,
+.ire:hover {
+    transform: scale(0.95);
+}
